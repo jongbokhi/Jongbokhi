@@ -5,8 +5,9 @@
 
 <a href="https://www.linkedin.com/in/jongbok-lee/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="LinkedIn"/>
-</a>
+</a><br><br>
 
+📝 Published research:  **[Robust Cyberattack Detection for UAVs using GANs against Jamming DoS]**  
 
 ### 🧠 AI Engineering Stack
 
