@@ -11,12 +11,13 @@
 
 ### 🧠 AI Engineering Stack
 
-📌 **LLM Frameworks**: LangChain | LangGraph | Google ADK  
-📌 **RAG & Agents**: Agentic RAG | Adaptive RAG | Multi-Agent Workflow 
-📌 **Model Deployment**: Flask API
+📌 **LLM Frameworks**: LangChain, LangGraph, Google ADK  
+📌 **RAG & Agent Architectures**: Agentic RAG, Adaptive RAG, Multi-Agent Workflow  
+📌 **Model Deployment**: Flask API  
 📌 **Workflow Automation**: n8n  
-📌 **MLOps**: MLflow | Kubeflow  
+📌 **MLOps**: MLflow, Kubeflow  
 📌 **Data Modeling & Validation**: Pydantic  
+
 <br><br>
 
 ### 🛠️ Language & Tools
