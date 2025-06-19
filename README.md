@@ -13,7 +13,7 @@
 
 📌 **LLM Frameworks**: LangChain, LangGraph, Google ADK  
 📌 **RAG & Agent Architectures**: Agentic RAG, Adaptive RAG, Multi-Agent Workflow  
-📌 **Model Deployment**: Flask API  
+📌 **Model Deployment**: FastAPI  
 📌 **Workflow Automation**: n8n  
 📌 **MLOps**: MLflow, Kubeflow  
 📌 **Data Modeling & Validation**: Pydantic  
