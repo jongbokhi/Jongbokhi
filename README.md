@@ -10,12 +10,12 @@
 📝 Published research:  **[Robust Cyberattack Detection for UAVs using GANs against Jamming DoS]**  
 
 ### 🧠 AI Engineering Stack
-
+📌 **Machine Learning**: XGBoost, LGBM, Ensemble, GANs
+📌 **MLOps**: MLflow, Kubeflow  
 📌 **LLM Frameworks**: LangChain, LangGraph, Google ADK  
 📌 **RAG & Agent Architectures**: Agentic RAG, Adaptive RAG, Multi-Agent Workflow  
 📌 **Model Deployment**: FastAPI  
 📌 **Workflow Automation**: n8n  
-📌 **MLOps**: MLflow, Kubeflow  
 📌 **Data Modeling & Validation**: Pydantic  
 
 <br><br>
